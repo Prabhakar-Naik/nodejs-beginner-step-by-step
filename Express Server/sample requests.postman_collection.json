@@ -1,0 +1,79 @@
+{
+  "item": {
+    "name": "sample request",
+    "item": [
+      {
+        "name": "hello",
+        "request": {
+          "method": "GET",
+          "header": [],
+          "url": "http://localhost:3000/hello"
+        },
+        "response": []
+      },
+      {
+        "name": "home",
+        "request": {
+          "method": "GET",
+          "header": [],
+          "url": "http://localhost:3000/home"
+        },
+        "response": []
+      },
+      {
+        "name": "about",
+        "request": {
+          "method": "GET",
+          "header": [],
+          "url": "http://localhost:3000/about"
+        },
+        "response": []
+      },
+      {
+        "name": "contact",
+        "request": {
+          "method": "GET",
+          "header": [],
+          "url": "http://localhost:3000/contact"
+        },
+        "response": []
+      },
+      {
+        "name": "created",
+        "request": {
+          "method": "POST",
+          "header": [],
+          "url": "http://localhost:3000/register"
+        },
+        "response": []
+      },
+      {
+        "name": "put mapping",
+        "request": {
+          "method": "PUT",
+          "header": [],
+          "url": "http://localhost:3000/user/prabha"
+        },
+        "response": []
+      },
+      {
+        "name": "patch mapping",
+        "request": {
+          "method": "PATCH",
+          "header": [],
+          "url": "http://localhost:3000/user/patch"
+        },
+        "response": []
+      },
+      {
+        "name": "delete mapping",
+        "request": {
+          "method": "DELETE",
+          "header": [],
+          "url": "http://localhost:3000/delete"
+        },
+        "response": []
+      }
+    ]
+  }
+}
